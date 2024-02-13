@@ -1,7 +1,7 @@
 #Quantitative Biology Project 
 #Sugarbird genetic mixing as a consequence of fire perturbation 
-
-
+install.packages("osfr")
+library(osfr)
 #Try this with energy moveSIM and energySIM 
 #install.packages("abmR")
 library(abmR)
